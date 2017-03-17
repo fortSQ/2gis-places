@@ -1,3 +1,6 @@
+var geoCenter = [55.75354, 37.623796]
+var geoZoom = 14
+
 var data = [
     {
         'title': 'По плану',
