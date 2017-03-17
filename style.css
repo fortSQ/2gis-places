@@ -1,0 +1,3 @@
+.label { display: block; position: relative; }
+.inactive { text-decoration: line-through; }
+.visited:after { content: '\221A';  font-weight: bold; position: absolute; right: 0; }
